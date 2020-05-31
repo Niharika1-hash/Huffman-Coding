@@ -1,0 +1,14 @@
+Step 1: Create a .txt file in the desired location on your computer. This file will be used as an input file.
+
+Step 2: Write the text you want to encode in this newly created file. Please make sure not to use '#' (hash) character in the text you want         to encode. In case you are copying the text from somewhere and pasting the same and encountering errors, please make sure to               explicitly delete and retype special characters such as ",' (double quotes, single quotes, comma etc.). Save the file.
+        (Cause of this probable error :  Due to change in font, Java may not be able to recognise the character as a part of its Charset.)
+        
+Step 3: Copy the path of this file and paste it in the relevant part of the  code. (In case you're using Windows: after pasting the path to         the code, change the '\' to '\\'  or else you'll encounter FileNotFound Exception.
+        (Eg- C:\\Users\\Niharika Poddar\\Documents\\HuffmanDemo\\huff.txt)
+        
+Step 4: Write the path/location where you want the output file to be created with the complete name of your new file.
+        (Eg- C:\\Users\\Niharika Poddar\\Documents\\HuffmanDemo\\huff_encoded.txt)
+        
+Step 5: Run the code. After execution, you'll find the output file in the location you mentioned.
+
+Caution: If you re-run the code with same file locations and file names as before, please remember to either delete the previous output              file/ change the name of your new file if you want it in the same location/change the file location, otherwise a new output file            won't be created. 
