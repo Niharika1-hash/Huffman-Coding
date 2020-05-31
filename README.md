@@ -5,7 +5,7 @@ INPUT: A .txt file containing some text(letters, special characters(excluding '#
 OUTPUT: A .txt file containing the encoded version of the text input from the input file in a specified location.
 
 
-The IDE used to is Eclipse 2020-03. The required sub-packages/sub-directories are a part of the java's default package itself.
+The IDE used is Eclipse 2020-03. The required sub-packages/sub-directories are a part of the java's default package itself.
 
 Data Structures used:
 Hash Table ( Implemented using HashMap class belonging to java.util, also known as Java's Collection Framework)
