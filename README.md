@@ -8,6 +8,9 @@ OUTPUT: A .txt file containing the encoded version of the text input from the in
 The IDE used is Eclipse 2020-03. The required sub-packages/sub-directories are a part of the java's default package itself.
 
 Data Structures used:
+
 Hash Table ( Implemented using HashMap class belonging to java.util, also known as Java's Collection Framework)
+
 MinHeap using Priority Queue (Implemented using Priority Queue class belonging to java.util, also known as Java's Collection Framework)
-Almost Complete/ Complete Binary Tree 
+
+Binary Tree 
