@@ -1,4 +1,8 @@
 /*
+ Name:-    Niharika Poddar
+ Date:-    31st May, 2020
+ Project:-  Huffmann Encoding
+	
  PROGRAM TO DEMONSTRATE HUFFMAN CODING
  INPUT: .txt file (containing Input String to be encoded)
  OUTPUT: .txt file that contains the encoded version of Input.
